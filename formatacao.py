@@ -1,5 +1,5 @@
 price1 = 3.141519
-price2 = -3312.5543
+price2 = 3312.5543
 price3 = 5512.34
 
 print(f"O preco 01 é: R${price1:<10} ok")
